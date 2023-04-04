@@ -1,0 +1,4 @@
+1	ronit	841609	  cs	20000	
+2	druba	56	  reg	34000	
+3	priyanshu	9088	  20981	10098	
+1	subham	21	  dc	8900	

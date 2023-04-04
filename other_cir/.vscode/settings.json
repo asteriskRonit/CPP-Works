@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "type_traits": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

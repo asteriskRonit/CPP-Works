@@ -1,0 +1,19 @@
+5	Maths	Rd-sharma
+3	the-complete-reference	schildt
+3	dbms	xyz
+0	networking	abc
+5	Maths	Rd-sharma
+3	the-complete-reference	schildt
+3	dbms	xyz
+0	networking	abc
+0		
+5	Maths	Rd-sharma
+3	the-complete-reference	schildt
+2	dbms	xyz
+0	networking	abc
+5	Maths	Rd-sharma
+3	the-complete-reference	schildt
+2	dbms	xyz
+0	networking	abc
+0		
+
